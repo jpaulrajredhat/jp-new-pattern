@@ -8,6 +8,7 @@ clusterGroup:
     - golang-external-secrets
     - config-demo
     - hello-world
+    - lab-kafka
 
   subscriptions:
     acm:
@@ -24,6 +25,7 @@ clusterGroup:
     - hub
     - config-demo
     - hello-world
+    - lab-project
 
   applications:
     acm:
